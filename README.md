@@ -1,7 +1,8 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&width=435&lines=Oi%2C+eu+sou+a+Sara+!)](https://git.io/typing-svg)
 
 
- Amo  viajar  conhecer pessoas , sou são paulina ,  apaixonada por café, natação  e Star Wars.
+ Amo  viajar  conhecer pessoas , sou são paulina ,  apaixonada por café, natação  , star wars e tecnologia. 
 
 # ✨✨ Formação Academica ✨✨
 
@@ -12,6 +13,12 @@
 🛠 SQL
 🛠 POWER BI 
 🛠 Cloud 
+
+
+#
+
+<img align="right" alt="" height="300px" src="./study.gif">
+
 
 ✨✨ Conecte-se comigo ✨✨
 
